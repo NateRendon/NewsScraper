@@ -9,15 +9,15 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/lperales321/News_Scraper.git"
+      "url": "git+https://github.com/NateRendon/NewsScraper.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/lperales321/News_Scraper/issues"
+      "url": "https://github.com/NateRendon/NewsScraper/issues"
     },
-    "homepage": "https://github.com/lperales321/News_Scraper#readme",
+    "homepage": "https://github.com/NateRendon/NewsScraper#readme",
     "dependencies": {
       "axios": "^0.19.0",
       "cheerio": "^1.0.0-rc.3",
