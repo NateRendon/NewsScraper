@@ -1,5 +1,5 @@
 {
-    "name": "News_Scraper",
+    "name": "NewsScraper",
     "version": "1.0.0",
     "description": "Scrape the news from another site",
     "main": "server.js",
